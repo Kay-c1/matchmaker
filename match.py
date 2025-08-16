@@ -1,7 +1,7 @@
 import random
 import time
 from tkinter import Tk, Button, DISABLED
-
+# pip install tk
 def show_symbol(x,y):
     global first
     global previousx, previousy
